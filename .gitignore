@@ -12,6 +12,6 @@ __pycache__
 data
 
 # files
-
+.env
 ## Mac OS
 .DS_Store
